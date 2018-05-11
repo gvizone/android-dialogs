@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dialogs</string>
+    <string name="abrir_alertdialog">Abrir AlertDialog</string>
+    <string name="importante">Importante</string>
+    <string name="deseja_extrair">Deseja extrair registro?</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+</resources>
